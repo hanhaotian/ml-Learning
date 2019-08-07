@@ -73,3 +73,6 @@
     model.save(sm,HDFSFileUtil.clean(""))
     sm.stop()
   }
+  case class DataRecord(data: String, text: String)
+
+  case class RawDataRecord(category: String, text: String)
