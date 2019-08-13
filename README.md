@@ -1,5 +1,12 @@
-## Welcome to GitHub Pages
-
+<h3 align="center">Welcome to GitHub Pages </h3>
+<div align="center">
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-ML%20Theory-yellowgreen.svg">
+    <img src="https://img.shields.io/badge/-Spark ML-blue.svg">
+</div>  
+  
+  
 You can use the [editor on GitHub](https://github.com/hanhaotian/ml-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
