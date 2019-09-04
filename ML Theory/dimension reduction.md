@@ -9,7 +9,9 @@
 
 ***经典的降维方法:***
 + 1. 多维缩放(Mult iple Dimensional Scaling，简称MDS)
-+ 2. 主成分分析(Principal Component Analysis ，简称PCA)
++ 2. 主成分分析(Principal Component Analysis ，简称PCA)_____是一种无监督的线性降维方法
 + 3. 核主成分分析(Kernelized PCA ，简称KPCA)
 + 4. 流形学习(manifold learning)是一类借鉴了拓扑流形概念的降维方法.
      + a. 等度量映射(Isometric Mapping，简称Isomap) 
+     + b. 局部线性嵌入(Locally Linear Embedding，简称LLE)
++ 5. 度量学习(metric learning) 
